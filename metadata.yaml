@@ -13,7 +13,12 @@ contributor:
     agent_name: Horton, William Thomas
     gutenberg_agent_id: '54888'
     url: http://www.gutenberg.org/2009/agents/54888
+covers:
+- cover_type: archival
+  image_path: 68657-h/images/cover.jpg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68657#A-book-of-images
 gutenberg_issued: '2022-07-31'
 identifiers:
   gutenberg: '68657'
